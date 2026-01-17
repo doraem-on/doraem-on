@@ -18,5 +18,5 @@
 
 📫 Reach me via 
 🌐 GitHub: https://github.com/doraem-on
-📧 Email: your.email@example.com
+📧 Email: lalitkishoreramesha@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/lalit-kishore-r-20b740321/) – Let’s grow our network
