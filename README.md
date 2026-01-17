@@ -1,4 +1,4 @@
-![Developer Meme](https://i.imgur.com/9ZQ3ZzR.png)
+
 
 
 👋 Hi, I’m Lalit Kishore
