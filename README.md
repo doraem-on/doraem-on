@@ -92,7 +92,7 @@
 
 ## 📊 GitHub Stats
 
-![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight" alt="Lalit's GitHub stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doraem-on&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doraem-on&layout=compact&theme=tokyonight" alt="Top Languages" />
 
