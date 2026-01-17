@@ -88,3 +88,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
+
+
+## 📊 GitHub Stats
+
+![Lalit's GitHub stats](https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doraem-on&layout=compact&theme=tokyonight)
+
