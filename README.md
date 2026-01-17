@@ -29,7 +29,8 @@
 
 <td width="35%" align="center">
 
-<img src="https://giphy.com/gifs/YHYmMLkOmqoo/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/YHYmMLkOmqoo/giphy.gif" width="300"/>
+
 
 </td>
 </tr>
