@@ -29,7 +29,8 @@
 
 <td width="35%" align="center">
 
-<img src="https://media.giphy.com/media/YHYmMLkOmqoo/giphy.gif" width="300"/>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhudGMxdHM5M3llaXN4ZGx5cTJ2eXk5Nnp6N2pwMnUyMWhoeGJkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hocd0MhlIhi3e8ORD/giphy.gif" width="300"/>
 
 
 </td>
