@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  5+ Hackathons Team Leader | Full Stack Architect | Machine Learning & Data Science 🤖📊
+  5+ Hackathons Team Leader | Full Stack Development | Machine Learning & Data Science 🤖📊
 </h3>
 
 <p align="center">
