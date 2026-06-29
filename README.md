@@ -1,11 +1,21 @@
-AI Engineer | Full-Stack Developer | Aspiring Computational Astronomer
-I'm a Computer Science undergraduate at Thapar Institute of Engineering and Technology who enjoys building software that combines AI, scientific computing, and engineering to solve real-world problems.
-My interests currently revolve around machine learning, full-stack development, robotics, scientific computing, and space technology. Over the past year, I've been gradually shifting towards computational astronomy and planetary science, exploring how AI can contribute to future space missions and astronomical research.
-Some of My Work
-🚀 Finalist in 10+ national and international hackathons across AI, healthcare, fintech, and space technology.
-🌕 Working on an ISRO Hackathon project involving lunar subsurface ice detection using Chandrayaan-2 radar and imagery data.
-🤖 Building AI-powered applications using Python, PyTorch, FastAPI, React, PostgreSQL, and modern ML frameworks.
-🌌 Starting Astolume, an initiative focused on open-source projects at the intersection of astronomy, AI, and scientific computing.
-📊 Active on Kaggle, exploring machine learning competitions and publishing notebooks to improve practical ML skills.
-🌍 Contributing to open-source projects and continuously learning from the developer community.
-📚 Currently exploring research in mathematical epidemiological modelling alongside AI applications.
+# Hi, I'm Lalit Kishore R 👋
+
+### AI Engineer | Full-Stack Developer | Computational Astronomy Enthusiast
+
+I'm a Computer Science undergraduate at **Thapar Institute of Engineering and Technology** passionate about building software that combines **Artificial Intelligence, Scientific Computing, and Space Technology**.
+
+My interests span machine learning, full-stack engineering, robotics, remote sensing, and computational astronomy, with the goal of applying technology to solve meaningful scientific problems.
+
+---
+
+## 🚀 Some of My Work
+
+- 🚀 Finalist in **10+ national and international hackathons** across AI, healthcare, fintech, cybersecurity, and space technology.
+- 🌕 Building an **AI-assisted Lunar Mission Intelligence Platform** for the **ISRO Bharatiya Antariksh Hackathon 2026** using Chandrayaan-2 DFSAR and OHRC data.
+- 🌌 Associated with **Astolume**, an open-source initiative exploring astronomy, AI, and scientific computing.
+- 🌍 Open Source Contributor with contributions appreciated by a German AI Open Source organization.
+- 📊 Active on **Kaggle**, participating in competitions and publishing notebooks.
+- 🔬 Exploring **Mathematical Epidemiological Modelling** alongside AI and Scientific Computing.
+- 🛰️ Interested in Computational Astronomy, Planetary Science, and Space Exploration.
+
+---
