@@ -11,7 +11,6 @@ My interests span machine learning, full-stack engineering, robotics, remote sen
 ## 🚀 Some of My Work
 
 - 🚀 Finalist in **10+ national and international hackathons** across AI, healthcare, fintech, cybersecurity, and space technology.
-- 🌕 Building an **AI-assisted Lunar Mission Intelligence Platform** for the **ISRO Bharatiya Antariksh Hackathon 2026** using Chandrayaan-2 DFSAR and OHRC data.
 - 🌌 Associated with **Astolume**, an open-source initiative exploring astronomy, AI, and scientific computing.
 - 🌍 Open Source Contributor with contributions appreciated by a German AI Open Source organization.
 - 📊 Active on **Kaggle**, participating in competitions and publishing notebooks.
