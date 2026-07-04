@@ -1,6 +1,6 @@
 # Hi, I'm Lalit Kishore R 👋
 
-### AI Engineer | Full-Stack Developer | Computational Astronomy Enthusiast
+### AI Engineer | Full-Stack Developer | Research Enthusiast
 
 I'm a Computer Science undergraduate at **Thapar Institute of Engineering and Technology** passionate about building software that combines **Artificial Intelligence, Scientific Computing, and Space Technology**.
 
