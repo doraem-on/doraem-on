@@ -33,7 +33,7 @@ My interests span machine learning, full-stack engineering, robotics, remote sen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=doraem-on&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
