@@ -23,7 +23,8 @@ My interests span machine learning, full-stack engineering, robotics, remote sen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,tensorflow,mysql,postgres,sqlite,git,github,vscode,docker,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,react,nodejs,fastapi,flask,pandas,scikitlearn,tensorflow,pytorch" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,linux,bash,aws,gcp,git,github" />
   </a>
 </p>
 
@@ -32,8 +33,8 @@ My interests span machine learning, full-stack engineering, robotics, remote sen
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doraem-on&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=doraem-on&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br>
