@@ -1,6 +1,6 @@
-# Hi, I'm Lalit Kishore R 👋
-
-### AI Engineer | Full-Stack Developer | Research Enthusiast
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Lalit%20Kishore%20R%20👋&fontSize=60&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Research%20Enthusiast&descAlignY=55&descAlign=50" />
+</div>
 
 I'm a Computer Science undergraduate at **Thapar Institute of Engineering and Technology** passionate about building software that combines **Artificial Intelligence, Scientific Computing, and Space Technology**.
 
@@ -18,3 +18,26 @@ My interests span machine learning, full-stack engineering, robotics, remote sen
 - 🛰️ Interested in Computational Astronomy, Planetary Science, and Space Exploration.
 
 ---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pandas,tensorflow,mysql,postgres,sqlite,git,github,vscode,docker,aws,gcp" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=doraem-on&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=doraem-on&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>If my open-source datasets or tools have helped you, consider hitting that <b>Sponsor</b> button at the top! 🚀</i>
+</div>
